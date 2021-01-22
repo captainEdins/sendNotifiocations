@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="fui_error_weak_password">
+        <item quantity="one">पासवर्ड काफ़ी रूप से मजबूत नहीं है. कम से कम %1$d वर्णों का उपयोग करें जो अक्षरों और नंबरों दोनों को मिलाकर बना हो</item>
+        <item quantity="other">पासवर्ड काफ़ी रूप से मजबूत नहीं है. कम से कम %1$d वर्णों का उपयोग करें जो अक्षरों और नंबरों दोनों को मिलाकर बना हो</item>
+    </plurals>
+    <string name="fui_accessibility_logo">ऐप्लिकेशन लोगो</string>
+    <string name="fui_auto_verified">फ़ोन नंबर की अपने आप पुष्टि की गई</string>
+    <string name="fui_button_text_save">सेव करें</string>
+    <string name="fui_button_text_send">भेजें</string>
+    <string name="fui_cancel">रद्द करें</string>
+    <string name="fui_confirm_recovery_body">अपना पासवर्ड फिर से पाने के लिए %1$s पर भेजे गए निर्देशों का पालन करें.</string>
+    <string name="fui_continue">जारी रखें</string>
+    <string name="fui_email_account_creation_error">ईमेल खाता पंजीकरण असफल रहा</string>
+    <string name="fui_email_hint">ईमेल</string>
+    <string name="fui_email_link_confirm_email_header">ईमेल की पुष्टि करें</string>
+    <string name="fui_email_link_confirm_email_message">साइन इन जारी रखने के लिए ईमेल की पुष्टि करें</string>
+    <string name="fui_email_link_cross_device_linking_text">आप पहले %1$s को अपने ईमेल खाते से जोड़ना चाहते थे, लेकिन आपने ऐसे किसी अलग डिवाइस से लिंक खोला है, जहां आप साइन-इन नहीं हैं.\n\nअगर आप अब भी अपने %1$s खाते को जोड़ना चाहते हैं, तो उसी डिवाइस पर लिंक खोलें जिस पर आपने साइन-इन करना शुरू किया था. या फिर, इस डिवाइस से साइन इन करने के लिए \'जारी रखें\' पर टैप करें.</string>
+    <string name="fui_email_link_cross_device_sign_in_button_text">%1$s के साथ साइन इन करें</string>
+    <string name="fui_email_link_different_anonymous_user_header">सत्र खत्म हो गया है</string>
+    <string name="fui_email_link_different_anonymous_user_message">इस साइन-इन अनुरोध से जुड़े हुए सत्र की समय-सीमा या तो खत्म हो गई है या यह सत्र हटा दिया गया है.</string>
+    <string name="fui_email_link_dismiss_button">खारिज करें</string>
+    <string name="fui_email_link_email_sent">ज़्यादा निर्देशों वाला एक ईमेल %1$s पर भेजा गया है. साइन-इन पूरा करने के लिए अपना ईमेल देखें.</string>
+    <string name="fui_email_link_header">साइन-इन ईमेल भेजा गया\n</string>
+    <string name="fui_email_link_invalid_link_header">साइन इन नहीं किया जा सका</string>
+    <string name="fui_email_link_invalid_link_message">एक्टिवेशन कोड गलत है. कोड के सामान्य रूप से नहीं होने, समय-सीमा खत्म होने या उसका पहले से इस्तेमाल होने की वजह से ऐसा हो सकता है.</string>
+    <string name="fui_email_link_resend">फिर से भेजें</string>
+    <string name="fui_email_link_trouble_getting_email_header">क्या ईमेल मिलने में दिक्कत हो रही है?</string>
+    <string name="fui_email_link_trouble_getting_email_resend_solution">अगर ऊपर दिए गए सुझावों से काम नहीं बनता है, तो आप फिर से ईमेल भेज सकते हैं. ध्यान दें कि ऐसा करने से पुराने ईमेल का लिंक बंद हो जाएगा.</string>
+    <string name="fui_email_link_trouble_getting_possible_fixes">समाधान के इन सामान्य तरीकों को आज़माएं:\n\u2022 देख लें कि ईमेल स्पैम फ़ोल्डर में तो नहीं चला गया या फिर फ़

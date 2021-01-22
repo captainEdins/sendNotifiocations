@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="fui_error_weak_password">
+        <item quantity="one">A jelszó nem elég erős. Legalább %1$d karaktert használjon, amelyben betűk és számok is szerepeljenek.</item>
+        <item quantity="other">A jelszó nem elég erős. Legalább %1$d karaktert használjon, amelyben betűk és számok is szerepeljenek.</item>
+    </plurals>
+    <string name="fui_accessibility_logo">Alkalmazás emblémája</string>
+    <string name="fui_auto_verified">A telefonszám automatikusan ellenőrizve</string>
+    <string name="fui_button_text_save">Mentés</string>
+    <string name="fui_button_text_send">Küldés</string>
+    <string name="fui_cancel">Mégse</string>
+    <string name="fui_confirm_recovery_body">A jelszó visszaállításához kövesse az ide (%1$s) elküldött utasításokat.</string>
+    <string name="fui_continue">Tovább</string>
+    <string name="fui_email_account_creation_error">Az e-mail-fiók regisztrációja sikertelen volt.</string>
+    <string name="fui_email_hint">E-mail</string>
+    <string name="fui_email_link_confirm_email_header">E-mail megerősítése</string>
+    <string name="fui_email_link_confirm_email_message">A bejelentkezés folytatásához erősítse meg az e-mail-címet</string>
+    <string name="fui_email_link_cross_device_linking_text">Eredetileg össze szerette volna kapcsolni %1$s-fiókját az e-mail-fiókjával, a linket azonban olyan eszközön nyitotta meg, amelyen nem jelentkezett be.\n\nHa továbbra is össze kívánja kapcsolni %1$s-fiókját, akkor azon az eszközön nyissa meg a linket, amelyen megkezdte a bejelentkezést. Ha ezen az eszközön kíván bejelentkezni, akkor koppintson a Tovább gombra.</string>
+    <string name="fui_email_link_cross_device_sign_in_button_text">Bejelentkezés a következővel: %1$s</string>
+    <string name="fui_email_link_different_anonymous_user_header">A munkamenet befejeződött</string>
+    <string name="fui_email_link_different_anonymous_user_message">A bejelentkezési kérelemhez kapcsolódó munkamenet lejárt, vagy törölték.</string>
+    <string name="fui_email_link_dismiss_button">Elvetés</string>
+    <string name="fui_email_link_email_sent">A további utasításokat tartalmazó bejelentkezési e-mailt elküldtük ide: %1$s. A bejelentkezés befejezéséhez keresse meg az e-mailjei között.</string>
+    <string name="fui_email_link_header">Bejelentkezési e-mail elküldve\n</string>
+    <string name="fui_email_link_invalid_link_header">Nem sikerült a bejelentkezés</string>
+    <string name="fui_email_link_invalid_link_message">Érvénytelen műveleti kód. Ez akkor fordulhat elő, ha a kód rossz formátumú, lejárt, vagy ha már felhasználták.</string>
+    <string name="fui_email_link_resend">Újraküldés</string>
+    <string name="fui_email_link_trouble_getting_email_header">Az e-mail-fogadással kapcsolatos problémát észlel?</string>
+    <string name="fui_email_link_trouble_getting_email_resend_solution">Ha a fenti lépések végrehajtása nem járt eredménnyel, küldje el újra az e-mailt. Ne feledje, hogy ezzel deaktiválja az előző e-mailben szereplő linket.</string>
+    <string name="fui_email_link_trouble_getting_possible_fixes">Próbálja ki ezeket az általános problémamegoldó lépéseket:\n\u2022 Ellenőrizze, hogy az e-mail nem lett-e spamként m

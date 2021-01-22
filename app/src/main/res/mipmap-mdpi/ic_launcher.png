@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="fui_error_weak_password">
+        <item quantity="one">Zaporka nije dovoljno jaka. Upotrijebite najmanje %1$d znak i koristite kombinaciju slova i znamenki.</item>
+        <item quantity="few">Zaporka nije dovoljno jaka. Upotrijebite najmanje %1$d znaka i koristite kombinaciju slova i znamenki.</item>
+        <item quantity="other">Zaporka nije dovoljno jaka. Upotrijebite najmanje %1$d znakova i koristite kombinaciju slova i znamenki.</item>
+    </plurals>
+    <string name="fui_accessibility_logo">Logotip aplikacije</string>
+    <string name="fui_auto_verified">Telefonski je broj automatski potvrđen</string>
+    <string name="fui_button_text_save">Spremi</string>
+    <string name="fui_button_text_send">Pošalji</string>
+    <string name="fui_cancel">Odustani</string>
+    <string name="fui_confirm_recovery_body">Slijedite upute za ponovno postavljanje zaporke koje smo poslali na e-adresu %1$s.</string>
+    <string name="fui_continue">Nastavi</string>
+    <string name="fui_email_account_creation_error">Registracija računa putem e-adrese nije uspjela</string>
+    <string name="fui_email_hint">E-adresa</string>
+    <string name="fui_email_link_confirm_email_header">Potvrdite e-adresu</string>
+    <string name="fui_email_link_confirm_email_message">Za nastavak prijave potvrdite e-adresu</string>
+    <string name="fui_email_link_cross_device_linking_text">Izvorno ste namjeravali povezati %1$s račun sa svojim računom e-pošte, no otvorili ste vezu na drugom uređaju na kojem niste prijavljeni.\n\nAko i dalje želite povezati svoj %1$s račun, otvorite vezu na uređaju na kojem ste pokrenuli postupak prijave. U suprotnom dodirnite Nastavi da biste se prijavili na ovom uređaju.</string>
+    <string name="fui_email_link_cross_device_sign_in_button_text">Prijava putem adrese %1$s</string>
+    <string name="fui_email_link_different_anonymous_user_header">Sesija je završila</string>
+    <string name="fui_email_link_different_anonymous_user_message">Sesija povezana s tim zahtjevom za prijavu istekla je ili je uklonjena.</string>
+    <string name="fui_email_link_dismiss_button">Odbaci</string>
+    <string name="fui_email_link_email_sent">E-poruka za prijavu s dodatnim uputama poslana je na adresu %1$s. Provjerite e-poštu da biste dovršili prijavu.</string>
+    <string name="fui_email_link_header">E-poruka za prijavu poslana\n</string>
+    <string name="fui_email_link_invalid_link_header">Prijava se ne može dovršiti</string>
+    <string name="fui_email_link_invalid_link_message">Kôd radnje nije važeći. Do toga može doći a
